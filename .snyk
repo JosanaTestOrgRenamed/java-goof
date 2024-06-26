@@ -1,7 +1,8 @@
+assword encoder such as BCrypt for comparing passwords.
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
 version: v1.25.0
 ignore: {}
 patch: {}
 exclude:
     global:
-        - ./‎todolist-goof/exploits/zip-slip.py
+        - ./todolist-goof/exploits/zip-slip.py
