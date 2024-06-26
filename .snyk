@@ -1,4 +1,3 @@
-assword encoder such as BCrypt for comparing passwords.
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
 version: v1.25.0
 ignore: {}
