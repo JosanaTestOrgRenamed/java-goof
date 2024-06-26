@@ -5,3 +5,4 @@ patch: {}
 exclude:
   global:
     - ./todolist-goof/exploits/zip-slip.py
+    - /todolist-goof/exploits/zip-slip.py
