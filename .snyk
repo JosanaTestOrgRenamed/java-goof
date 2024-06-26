@@ -3,5 +3,5 @@ version: v1.25.0
 ignore: {}
 patch: {}
 exclude:
-    global:
-        - ./todolist-goof/exploits/zip-slip.py
+  global:
+    - ./todolist-goof/exploits/zip-slip.py
